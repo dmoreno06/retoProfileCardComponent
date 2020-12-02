@@ -1,13 +1,14 @@
 .attribution {
     font-size: 11px;
     text-align: center;
+    background-color: #1da7b4;
 }
 
 .attribution a {
     color: hsl(228, 45%, 44%);
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    font-size: 7rem;
+    font-size: 1rem;
 }
 
 
@@ -16,7 +17,8 @@
 .body {
     width: 310px;
     height: 480px;
-    background-color: #1da7b4;
+    background-color: #1fa9b4;
+    margin: 0 auto;
 }
 
 

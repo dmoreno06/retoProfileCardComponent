@@ -9,3 +9,15 @@
     text-align: center;
     font-size: 7rem;
 }
+
+
+/*  inicio del body*/
+
+.body {
+    width: 310px;
+    height: 480px;
+    background-color: #1da7b4;
+}
+
+
+/*  fin del body*/

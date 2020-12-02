@@ -1,7 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
     background-color: #1da7b4;
+    height: 80vh;
 }
 
 .attribution a {
@@ -19,6 +25,7 @@
     height: 480px;
     background-color: #53CED2;
     margin: 0 auto;
+    margin-bottom: 1rem;
 }
 
 

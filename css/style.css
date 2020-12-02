@@ -31,3 +31,16 @@
 
 
 /*  fin del body*/
+
+
+/*  inicio del container*/
+
+.container {
+    margin: 0 auto;
+    height: 40%;
+    width: 80%;
+    background-color: seashell;
+}
+
+
+/*  fin del container*/

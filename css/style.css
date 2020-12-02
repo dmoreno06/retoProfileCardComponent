@@ -27,6 +27,7 @@
     background-color: #53CED2;
     margin: 0 auto;
     margin-top: 1rem;
+    display: flex;
 }
 
 
@@ -40,6 +41,8 @@
     height: 60%;
     width: 90%;
     background-color: seashell;
+    align-items: center;
+    justify-content: center;
 }
 
 

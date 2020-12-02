@@ -28,6 +28,8 @@
     margin: 0 auto;
     margin-top: 1rem;
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
@@ -41,8 +43,7 @@
     height: 60%;
     width: 90%;
     background-color: seashell;
-    align-items: center;
-    justify-content: center;
+    border-radius: 2%;
 }
 
 

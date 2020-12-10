@@ -19,7 +19,7 @@ body {
     font-size: 11px;
     text-align: center;
     background-color: #1da7b4;
-    height: 55vh;
+    height: 60vh;
 }
 
 .attribution a {
@@ -34,12 +34,8 @@ body {
 .body {
     margin: 1rem;
     width: 352px;
-    height: 440px;
     margin: 0 auto;
     margin-top: 1rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 
@@ -54,6 +50,9 @@ body {
     width: 90%;
     background-color: seashell;
     border-radius: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 

@@ -10,8 +10,12 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    background-color: var(dark-cyan);
+}
 
-/* .attribution {
+.attribution {
     font-size: 11px;
     text-align: center;
     background-color: #1da7b4;
@@ -20,10 +24,9 @@
 
 .attribution a {
     color: hsl(228, 45%, 44%);
-    font-family: 'Kumbh Sans', sans-serif;
     text-align: center;
     font-size: 1rem;
-}*/
+}
 
 
 /*  inicio del body*/
@@ -32,7 +35,6 @@
     margin: 1rem;
     width: 310px;
     height: 480px;
-    background-color: var(dark-cyan);
     margin: 0 auto;
     margin-top: 1rem;
     display: flex;

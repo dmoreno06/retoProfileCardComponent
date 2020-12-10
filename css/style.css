@@ -1,3 +1,10 @@
+:root {
+    --dark-cyan: hsl(185, 75%, 39%);
+    --very-dark-desaturated-blue: hsl(229, 23%, 23%);
+    --dark-grayish-blue: hsl(227, 10%, 46%);
+    --dark-gray: hsl(0, 0%, 59%);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +19,7 @@
 
 .attribution a {
     color: hsl(228, 45%, 44%);
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Kumbh Sans', sans-serif;
     text-align: center;
     font-size: 1rem;
 }
@@ -24,7 +31,7 @@
     margin: 1rem;
     width: 310px;
     height: 480px;
-    background-color: #53CED2;
+    background-color: var(dark-cyan);
     margin: 0 auto;
     margin-top: 1rem;
     display: flex;

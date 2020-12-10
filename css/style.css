@@ -61,6 +61,7 @@ body {
 .card-forma {
     max-width: 100%;
     max-height: 100%;
+    background-image: image("./images/bg-pattern-card.svg");
 }
 
 .card-photo {

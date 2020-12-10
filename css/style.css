@@ -57,8 +57,7 @@ body {
 
 .card-forma-img {
     width: 100%;
-    border-top-left-radius: 2;
-    border-top-right-radius: 2;
+    border-radius: 2% 0px 2% 0px;
 }
 
 

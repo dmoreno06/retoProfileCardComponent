@@ -60,5 +60,9 @@ body {
     border-radius: 4% 4% 0px 0px;
 }
 
+.card-photo-vic {
+    border-radius: 50%;
+}
+
 
 /*  fin del container*/

@@ -58,8 +58,11 @@ body {
 
 /*  fin del container*/
 
-.card-photo {
+.card-forma {
     max-width: 100%;
     max-height: 100%;
+}
+
+.card-photo {
     vertical-align: middle;
 }
